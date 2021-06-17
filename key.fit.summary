@@ -1,0 +1,10 @@
+I/O Assignment Analysis Status : Successful - Sat Jun 05 10:32:27 2021
+Quartus II 64-Bit Version : 11.1 Build 173 11/01/2011 SP 0.11 SJ Full Version
+Revision Name : key
+Top-level Entity Name : key
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total pins : 14 / 92 ( 15 % )
+Total virtual pins : 0
+Total PLLs : 0 / 2 ( 0 % )
